@@ -5,7 +5,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
 
 
 ### Stats & Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?renzik=<RENZIK>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Renzik" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renzik)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
