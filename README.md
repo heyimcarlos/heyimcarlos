@@ -3,6 +3,8 @@
 
 My name is Carlos de la Cruz and I'm a fullstack software engineer with experience in DevOps and Cloud. I'm from the Dominican Republic, currently working looking for work in Canada.
 
+  - I'm currently learning: [TypeScript] https://www.typescriptlang.org/play/?jsx=2&esModuleInterop=true&e=196#example/typescript-with-react
+
 ### Find me on
 <p style="margin:1em;">
   <a href="https://www.linkedin.com/in/carlos-dev/" rel="nofollow"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&amp;logo=appveyor=&amp;logoColor=white" style="max-width:100%;"></a>
