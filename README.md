@@ -3,6 +3,7 @@
 
 My name is Carlos de la Cruz and I'm a fullstack software engineer with experience in DevOps and Cloud. I'm from the Dominican Republic, currently working looking for work in Canada.
 
+[![LinkedIn][3.2]][3]
 
 ### Stats & Contributions
 <a href="https://github.com/Renzik/Renzik">
