@@ -6,7 +6,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
 
 ### Stats & Contributions
 <a href="https://github.com/Renzik/Renzik">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzik&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?       username=Renzik&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <!--
