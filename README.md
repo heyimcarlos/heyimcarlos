@@ -6,7 +6,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
 
 ### 🔧 Technologies & Tools
 ![image](https://img.shields.io/badge/-Postman-informational?style=flat&logo=Postman&logoColor=orange&color=060606)
-![image](https://img.shields.io/badge/-React-Native-informational?style=flat&logo=React&logoColor=61DAFB&color=060606)
+![image](https://img.shields.io/badge/-React--Native-informational?style=flat&logo=feact&logoColor=61DAFB&color=060606)
 ![image](https://user-images.githubusercontent.com/28737279/128578185-971ae817-13e9-41e0-897c-5d9060b58eba.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578189-aa0dd7f6-2590-4cca-b15a-f41bad000f50.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578203-498ae3a1-e0ea-435f-a124-d09bcc81c491.png)
