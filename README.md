@@ -6,6 +6,8 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
 ### Technologies & Tools
 <img src="https://www.linkedin.com/in/carlos-dev/" data-canonical-src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&amp;logo=appveyor=&amp;logoColor=white" style="max-width:100%;">
 
+<a href="https://www.linkedin.com/in/carlos-dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/06b975b47caa7d581c8232ec54a845b18d836d18de7decd08215ed3cf524368b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3030384238423f7374796c653d666c6174266c6f676f3d6170707665796f723d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&amp;logo=appveyor=&amp;logoColor=white" style="max-width:100%;"></a>
+
 ![](https://img.shields.io?url=https://www.linkedin.com/in/carlos-dev/&color=ffffff)
 <!-- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
