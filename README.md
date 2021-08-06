@@ -1,9 +1,10 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/28737279/128578121-bb097c28-9b32-495d-9623-03356eba1fa8.png)
 
 
 My name is Carlos de la Cruz and I'm a fullstack software engineer with experience in DevOps and Cloud. I'm from the Dominican Republic, currently working looking for work in Canada.
 
-  - I'm currently learning: [TypeScript] https://www.typescriptlang.org/play/?jsx=2&esModuleInterop=true&e=196#example/typescript-with-react
+  - I'm currently learning: [TypeScript](https://www.typescriptlang.org/play/?jsx=2&esModuleInterop=true&e=196#example/typescript-with-react)
 
 ### Find me on
 <p style="margin:1em;">
