@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+My name is Carlos de la Cruz and I'm a fullstack software engineer with experience in DevOps and Cloud. I'm from the Dominican Republic, currently working looking for work in Canada.
+
+
+### Stats & Contributions
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?renzik=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **Renzik/Renzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
