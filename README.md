@@ -5,8 +5,9 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
 
 
 ### Stats & Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Renzik&theme=<THEME_NAME>" />
-
+<a href="https://github.com/Renzik/Renzik">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzik&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!--
 **Renzik/Renzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
