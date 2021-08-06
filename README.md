@@ -5,7 +5,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer with experien
   - 🔭 I'm currently learning: [TypeScript](https://www.typescriptlang.org/play/?jsx=2&esModuleInterop=true&e=196#example/typescript-with-react)
 
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=Postman&logoColor=white&color=060606)
 
 ![image](https://user-images.githubusercontent.com/28737279/128578185-971ae817-13e9-41e0-897c-5d9060b58eba.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578189-aa0dd7f6-2590-4cca-b15a-f41bad000f50.png)
