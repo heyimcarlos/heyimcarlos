@@ -14,21 +14,18 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer based on Type
 ![image](https://user-images.githubusercontent.com/28737279/128578185-971ae817-13e9-41e0-897c-5d9060b58eba.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578189-aa0dd7f6-2590-4cca-b15a-f41bad000f50.png)
 ![image](https://img.shields.io/badge/-React--Native-informational?style=flat&logo=react&logoColor=61DAFB&color=060606)
-![image](https://img.shields.io/badge/-Digital--Ocean-informational?style=flat&logo=digitalocean&logoColor=blue&color=060606)
 ![image](https://user-images.githubusercontent.com/28737279/128578212-59bd6514-87c5-460f-9e55-65f0b87cda6d.png)
-![image](https://img.shields.io/badge/-Cpanel-informational?style=flat&logo=cPanel&logoColor=FF6c2c&color=060606)
-![image](https://img.shields.io/badge/-NginX-informational?style=flat&logo=nginx&logoColor=009639&color=060606)
 ![image](https://user-images.githubusercontent.com/28737279/128578233-608b6018-0aa4-4377-94f1-1b19fc3f010a.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578246-b2e485ac-31ba-41df-bf96-2ee64f783d16.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578237-2372dcf2-5359-4322-be9f-8e11e9e0057f.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578203-498ae3a1-e0ea-435f-a124-d09bcc81c491.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578270-b8a7ca32-bd26-491c-bd53-9f80809e4c10.png)
 ![image](https://img.shields.io/badge/-Styled--Components-informational?style=flat&logo=styled-components&logoColor=DB7093&color=060606)
-![image](https://img.shields.io/badge/-Material--UI-informational?style=flat&logo=Material-UI&logoColor=blue&color=060606)
-![image](https://img.shields.io/badge/-Sass-informational?style=flat&logo=sass&logoColor=CC6699&color=060606)
-![image](https://img.shields.io/badge/-Passport-informational?style=flat&logo=passport&logoColor=34E27A&color=060606)
-![image](https://img.shields.io/badge/-JWT-informational?style=flat&logo=JSON-Web-Tokens&logoColor=ffffff&color=060606)
-![image](https://img.shields.io/badge/-Postman-informational?style=flat&logo=Postman&logoColor=orange&color=060606)
+
+
+
+
+
 
 ### Stats & Contributions
 <a href="https://github.com/heyimcarlos/heyimcarlos">
