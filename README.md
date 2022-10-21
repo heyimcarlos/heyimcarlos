@@ -7,7 +7,6 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer based on Type
 ### 🔧 Technologies & Tools
 
 
-![image](https://user-images.githubusercontent.com/28737279/128578260-0aa39299-ded8-4867-822e-e702bab4aa3a.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578265-756041df-b916-41c5-b4f4-b527f4a477f5.png)
 ![image](https://user-images.githubusercontent.com/28737279/128578269-e1394efe-f07b-4dd2-ac7a-8285e11df92a.png)
 ![image](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=764ABC&color=060606)
