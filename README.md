@@ -1,8 +1,8 @@
 ### Welcome to my profile! 👋
 
-My name is Carlos de la Cruz and I'm a fullstack software engineer based on Typescript. I'm from the Dominican Republic, currently looking for work in Canada.
-  - Currently working at [CrossBorder Solutions](https://crossborder.ai/)
-  - 🔭 I'm currently learning: The [T3 Stack](https://init.tips/#why)
+My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed in Typescript. I'm from the Dominican Republic, currently looking for work in Canada.
+  - Currently working at [Exactera](https://exactera.com/)
+  - 🔭 I'm currently learning: [Golang](https://go.dev/)
 
 ### 🔧 Technologies & Tools
 
