@@ -3,7 +3,7 @@
 My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed in Typescript. I'm from the Dominican Republic, currently looking for work in Canada.
   <!-- - Currently working at [Exactera](https://exactera.com/) -->
   - 🔭 I'm currently learning: [Rust](https://rust.dev/)
-  - Currently working on [Snake.rs](https://github.com/heyimcarlos/snake.rs)
+  - Currently working on [zero2prod](https://github.com/heyimcarlos/zero2prod)
 
 ### 🔧 Technologies & Tools
 
