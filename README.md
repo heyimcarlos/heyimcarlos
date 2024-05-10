@@ -5,7 +5,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed i
   - 🔭 I'm currently learning: [Rust](https://rust.dev/)
   - Currently working on [zero2prod](https://github.com/heyimcarlos/zero2prod)
 
-### 🔧 Technologies & Tools
+<!-- ### 🔧 Technologies & Tools -->
 
 
 <!-- ![image](https://user-images.githubusercontent.com/28737279/128578265-756041df-b916-41c5-b4f4-b527f4a477f5.png)
