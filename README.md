@@ -23,8 +23,6 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed i
 ![image](https://img.shields.io/badge/-Styled--Components-informational?style=flat&logo=styled-components&logoColor=DB7093&color=060606) -->
 
 
-
-
 ### Stats & Contributions
 <a href="https://github.com/heyimcarlos/heyimcarlos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=heyimcarlos&hide=css,html&show_icons=true&line_height=27&count_private=true&title_color=41b783&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Heyimcarlos's GitHub Stats" />
