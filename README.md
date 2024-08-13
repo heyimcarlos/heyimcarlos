@@ -4,6 +4,7 @@ My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed i
   <!-- - Currently working at [Exactera](https://exactera.com/) -->
   - 🔭 I'm currently learning: [Rust](https://rust.dev/)
   - Currently working on [zero2prod](https://github.com/heyimcarlos/zero2prod)
+  - Currently doing some freelance for [gingertec.io](https://gingertec.us)
 
 <!-- ### 🔧 Technologies & Tools -->
 
