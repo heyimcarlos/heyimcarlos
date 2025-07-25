@@ -1,10 +1,8 @@
 ### Welcome to my profile! 👋
 
-My name is Carlos de la Cruz and I'm a fullstack software engineer well-versed in Typescript. I'm from the Dominican Republic, currently looking for work in Canada.
+My name is Carlos de la Cruz and I'm a fullstack software engineer. I'm from the Dominican Republic.
   <!-- - Currently working at [Exactera](https://exactera.com/) -->
-  - 🔭 I'm currently learning: [Go](https://go.dev/)
-  - Currently working on [onboarder.ca](https://github.com/onboarder-io)
-  - Currently doing some freelance for [gingertec.io](https://gingertec.us)
+  - 🔭 I'm currently learning: [C](https://lowlevel.academy)
 
 <!-- ### 🔧 Technologies & Tools -->
 
