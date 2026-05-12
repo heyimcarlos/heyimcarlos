@@ -1,22 +1,6 @@
 ### Welcome to my profile! 👋
 
-My name is Carlos de la Cruz and I'm a fullstack software engineer. I'm from the Dominican Republic.
-  <!-- - Currently working at [Exactera](https://exactera.com/) -->
-  - 🔭 I'm currently learning: [C](https://lowlevel.academy)
-
-<!-- ### 🔧 Technologies & Tools -->
-
-
-
-### Stats & Contributions
-<a href="https://github.com/heyimcarlos/heyimcarlos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=heyimcarlos&hide=css,html&show_icons=true&line_height=27&count_private=true&title_color=41b783&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Heyimcarlos's GitHub Stats" />
-</a>
-
-<a href="https://github.com/heyimcarlos/heyimcarlos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimcarlos&hide=css,html&title_color=41b783&text_color=c9cacc&icon_color=41b783&bg_color=1d1f21&langs_count=3" />
-</a>
-
+My name is Carlos de la Cruz and I'm a tinkerer from the Dominican Republic.
 
 ### Find me on
 <p style="margin:1em;">
